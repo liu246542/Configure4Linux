@@ -1,0 +1,17 @@
+{
+	"aprosopo_dark_dirty_red": true,
+	"aprosopo_dark_red": true,
+	"aprosopo_dirty_bar": true,
+	"aprosopo_show_tab_close_buttons": true,
+	"aprosopo_solid_tab": true,
+	"color_scheme": "Packages/Theme - Aprosopo/Tomorrow-Night-Eighties-Stormy.tmTheme",
+	"expand_tabs_on_save": true,
+	"font_face": "Consolas-with-Yahei",
+	"font_size": 18,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 2,
+	"theme": "Aprosopo Dark@st3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

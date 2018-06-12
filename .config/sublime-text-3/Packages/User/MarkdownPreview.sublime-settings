@@ -1,0 +1,8 @@
+{
+    "build_action" : "build",
+    "enable_mathjax" : true,
+    "enable_uml" : true,
+    "enable_highlight" : true,
+    "image_path_conversion": "relative",
+    "file_path_conversions": "relative"
+}
