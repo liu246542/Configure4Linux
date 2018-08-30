@@ -2,5 +2,9 @@
     "renderer_options-MarkdownRenderer": {
         "extensions": ["tables", "fenced_code", "codehilite", "footnotes", "toc", "abbr", "def_list", "admonition"]
     },
-    "mathjax_enabled": true
+    "mathjax_enabled": true,
+    "html_template_name": "diy",
+    "export_options" : {
+        "template_name": "diy-export"
+    }
 }
