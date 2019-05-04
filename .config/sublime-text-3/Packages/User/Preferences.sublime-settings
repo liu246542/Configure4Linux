@@ -1,17 +1,13 @@
 {
-	"aprosopo_dark_dirty_red": true,
-	"aprosopo_dark_red": true,
-	"aprosopo_dirty_bar": true,
-	"aprosopo_show_tab_close_buttons": true,
-	"aprosopo_solid_tab": true,
-	"color_scheme": "Packages/Theme - Aprosopo/Tomorrow-Night-Eighties-Stormy.tmTheme",
+	"color_scheme": "Packages/Theme - Gravity/One Dark Gravity.tmTheme",
 	"expand_tabs_on_save": true,
 	"font_face": "Consolas-with-Yahei",
-	"font_size": 18,
+	"font_size": 13,
 	"ignored_packages":
 	[
+		"Markdown"
 	],
 	"tab_size": 2,
-	"theme": "Aprosopo Dark@st3.sublime-theme",
+	"theme": "Gravity One.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
