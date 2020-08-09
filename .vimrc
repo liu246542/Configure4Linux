@@ -1,6 +1,7 @@
 set nocompatible " 关闭vi兼容模式
 syntax enable
 colorscheme molokai
+hi Normal  ctermfg=252 ctermbg=none
 
 filetype off
 set number

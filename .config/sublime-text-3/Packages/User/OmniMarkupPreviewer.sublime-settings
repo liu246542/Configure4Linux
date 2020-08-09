@@ -1,8 +1,7 @@
 {
     "renderer_options-MarkdownRenderer": {
-        "extensions": ["tables", "fenced_code", "codehilite", "footnotes", "toc", "abbr", "def_list", "admonition", "attr_list", "meta"]
+        "extensions": ["markdown.extensions.tables", "markdown.extensions.fenced_code", "markdown.extensions.codehilite"]
     },
-    "mathjax_enabled": true,
     "html_template_name": "diy",
     "export_options" : {
         "template_name": "diy-export"
