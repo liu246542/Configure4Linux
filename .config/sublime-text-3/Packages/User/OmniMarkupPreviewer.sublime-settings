@@ -1,9 +1,10 @@
 {
+    "mathjax_enabled": true,
     "renderer_options-MarkdownRenderer": {
-        "extensions": ["markdown.extensions.tables", "markdown.extensions.fenced_code", "markdown.extensions.codehilite"]
+        "extensions": ["markdown.extensions.tables", "markdown.extensions.fenced_code", "markdown.extensions.codehilite", "markdown.extensions.mdx_mathjax"]
     },
     "html_template_name": "diy",
     "export_options" : {
         "template_name": "diy-export"
-    }
+    },
 }
