@@ -4,6 +4,7 @@
         "extensions": [
           "markdown.extensions.attr_list",
           "markdown.extensions.footnotes",
+          "markdown.extensions.admonition",
           "markdown.extensions.toc",
           "markdown.extensions.tables",
           "markdown.extensions.fenced_code",
