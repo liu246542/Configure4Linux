@@ -8,6 +8,7 @@
     <meta charset="utf-8">
     <title>{{filename}}—{{dirname}}</title>
     <link rel="stylesheet" type="text/css" href="/public/github.css">
+    <link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/Han/3.3.0/han.min.css">
     <style type="text/css">
       @font-face {
         font-family: fontawesome-mini;
@@ -24,12 +25,12 @@
         padding: 45px;
       }
       .markdown-body {
-        font-family: sans-serif;
+        /*font-family: sans-serif;*/
         -ms-text-size-adjust: 100%;
         -webkit-text-size-adjust: 100%;
         color: #333333;
         overflow: hidden;
-        font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+        /*font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;*/
         font-size: 16px;
         line-height: 1.6;
         word-wrap: break-word;
@@ -242,6 +243,7 @@
         }
       });
   </script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/Han/3.3.0/han.min.js"></script>
   <script type="text/javascript" src="/public/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   %end
 </html>
