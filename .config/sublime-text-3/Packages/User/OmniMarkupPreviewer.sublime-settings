@@ -6,12 +6,14 @@
           "markdown.extensions.footnotes",
           "markdown.extensions.admonition",
           "markdown.extensions.toc",
+          "markdown.extensions.meta",
+          "markdown.extensions.wikilinks",
           "markdown.extensions.tables",
           "markdown.extensions.fenced_code",
           "markdown.extensions.codehilite",
           "markdown.extensions.mdx_mathjax"]
     },
-    "html_template_name": "diy",
+    "html_template_name": "feng_diy",
     "export_options" : {
         "template_name": "diy-export"
     },
