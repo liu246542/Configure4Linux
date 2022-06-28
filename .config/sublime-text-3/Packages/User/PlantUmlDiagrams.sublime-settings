@@ -1,0 +1,6 @@
+{ 
+  "viewer" : "Sublime",
+  "output_format": "svg",
+  // "plantuml_server": "http://localhost:8080/",
+  "plantuml_server": "https://www.plantuml.com/plantuml/uml/",
+}
